@@ -1,0 +1,10 @@
+title:        My blog
+url:          http://caprathebest.github.io
+baseurl:	  ""
+author:
+  name:       'Gianluca Belardinelli'
+  email:      ''
+markdown:     rdiscount
+permalink:    pretty
+pygments:     false
+paginate:     5
