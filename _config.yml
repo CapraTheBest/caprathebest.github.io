@@ -1,10 +1,18 @@
 title:        My blog
 url:          http://caprathebest.github.io
+<<<<<<< HEAD
 baseurl:	  ""
+=======
+baseurl:	  /
+>>>>>>> 062e5c10ce5c39dd97b4f3b897e9023e3343f398
 author:
   name:       'Gianluca Belardinelli'
   email:      ''
 markdown:     rdiscount
 permalink:    pretty
+<<<<<<< HEAD
 pygments:     false
+=======
+pygments:     true
+>>>>>>> 062e5c10ce5c39dd97b4f3b897e9023e3343f398
 paginate:     5
