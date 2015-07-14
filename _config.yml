@@ -1,10 +1,26 @@
-title:        My blog
+# Random
+title:        Il mio Blog
 url:          http://caprathebest.github.io
-baseurl:	  /
 author:
   name:       'Gianluca Belardinelli'
-  email:      ''
+  email:      'gianluca.beladirr2y@gmail.com'
 markdown:     rdiscount
+rdiscount:
+    extensions:
+        - generate_toc
 permalink:    pretty
-pygments:     false
+highlighter:  false
 paginate:     5
+
+# Global
+exclude: ["start.bat"]
+
+# Gems
+gems: 				[jekyll-paginate]
+
+# Serving
+detach:  			false
+port:    			4000
+host:    			127.0.0.1
+baseurl: 			""
+show_dir_listing: 	false

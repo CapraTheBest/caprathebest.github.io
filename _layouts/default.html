@@ -7,20 +7,26 @@
 
     <header class="masthead">
       <div class="masthead-inner">
-        <h1><a href="http://caprathebest.github.io">{{ site.title }}</a></h1>
-		<p class="lead">Where I can share my thoughts and some of my projects</p>
+        <h1><a href="{{ site.url }}">{{ site.title }}</a></h1>
+		<p class="lead">Il mio sito personale</p>
 		
         <div class="colophon">
           <ul class="colophon-links">
+            <!--<li>
+              <a target="_blank" href="https://github.com/caprathebest">La mia pagina Github</a>
+            </li>-->
             <li>
-              <a target="_blank" href="https://github.com/caprathebest">My Github page</a>
+              <a href="{{ site.url }}/about/">About me</a>
             </li>
             <li>
-              <a target="_blank" href="http://caprathebest.github.io/about/">About me</a>
+              <a href="{{ site.url }}/contact/">Contatti</a>
             </li>
           </ul>
-          <p>&copy; 2015. {{ site.author.name }}</p>
+          <p>&copy; 2016. {{ site.author.name }}</p>
 		  <p>All rights reserved.</p>
+          <p>
+            Powered by <a href="https://github.com/hyde/hyde">Hyde</a>
+          </p>
         </div>
       </div>
     </header>
