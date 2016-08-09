@@ -4,13 +4,17 @@ url:          http://caprathebest.github.io
 author:
   name:       'Gianluca Belardinelli'
   email:      'gianluca.beladirr2y@gmail.com'
-markdown:     rdiscount
-rdiscount:
-    extensions:
-        - generate_toc
+# markdown:     rdiscount
+#rdiscount:
+#    extensions:
+#        - generate_toc
 permalink:    pretty
 highlighter:  false
 paginate:     5
+
+# Google services
+google_analytics: UA-81892472-1
+
 
 # Global
 exclude: ["start.bat"]

@@ -16,10 +16,10 @@
               <a target="_blank" href="https://github.com/caprathebest">La mia pagina Github</a>
             </li>-->
             <li>
-              <a href="{{ site.url }}/about/">About me</a>
+              <a href="{{ site.url }}/about/">Qualcosa su di me</a>
             </li>
             <li>
-              <a href="{{ site.url }}/contact/">Contatti</a>
+              <a href="{{ site.url }}/contact/">Contattami</a>
             </li>
           </ul>
           <p>&copy; 2016. {{ site.author.name }}</p>
@@ -34,6 +34,8 @@
     <div class="content container">
       {{ content }}
     </div>
-
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
   </body>
 </html>
