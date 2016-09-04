@@ -5,7 +5,7 @@ title: Servizi
 
 All'interno di questa pagina sono riportati i diversi servizi che posso svolgere, che vanno dalla riparazione di una console all'assemblaggio di un computer. Per avere una panoramica dei lavori svolti da me fino ad oggi, basta controllare la seguente [Pagina]({{ site.url }}/servizi_finiti).
 
-Per richiedere un preventivo, informazioni riguardo una riparazione, una modifica o qualsiasi altra cosa contattatemi attraverso la pagiba [Contatti]({{ site.url }}/contact), oppure attraverso l'indirizzo email <gianluca.beladirr2y@gmail.com>.
+Per richiedere un preventivo, informazioni riguardo una riparazione, una modifica o qualsiasi altra cosa contattatemi attraverso la pagina [Contatti]({{ site.url }}/contact), oppure attraverso l'indirizzo email <gianluca.beladirr2y@gmail.com>.
 
 ## 3DS
 
