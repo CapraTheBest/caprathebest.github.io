@@ -11,10 +11,11 @@ Per richiedere un preventivo, informazioni riguardo una riparazione, una modific
 
 * Riparazione Schermo superiore / inferiore
 * Sostituzione Casse audio
-* Sosituzione case esterno
+* Sosituzione Case esterno
 * Sostituzione Slot SD
 * Sostituzione Card slot
 * Sostituzione Analogico
+* Sostituzione Batteria
 * Unbrick di ogni modello di 3ds<sup><a href="#warn1">1</a></sup>
 * Modifica 3ds software
    * Installazione Arm9loaderhax & CFW Luma3ds<sup><a href="#warn2">2</a></sup>
@@ -58,9 +59,9 @@ Per richiedere un preventivo, informazioni riguardo una riparazione, una modific
 <sup><a id="warn2">2</a></sup> L'Arm9loaderhax è un nuovo tipo di modifica che permette l'esecuzione di un Custom Firmware all'avvio della console. I pro sono tanti, quali la possibilità di poter installare qualsiasi gioco, tempi d'avvio uguali a quelli di una console non modificata, la possibilità di poter andare online senza il rischio di essere bannati e la capacità di avviare lo stesso software di sistema con speciali patch che permettono l'avvio di qualsiasi tipo di applicazione al suo interno, compresi i backup dei giochi. L'unico contro è che durante l'installazione è possibile causare un brick alla console, risolvibile attraverso il processo di unbrick.
 L'installazione della modifica è stata eseguita da me su molte console, tutte con esito positivo, eppure non posso garantire la riuscita del processo al 100%, a causa della natura del processo d'installazione, molto lungo e rischioso. Con ciò vorrei aggiungere che non mi assumo nessuna responsabilità nel caso il processo fallisca.
 
-<sup><a id="warn3">3</a></sup> Il MenuHax è simile all'Arm9Loaderhax, ma varia sotto molti aspetti, quali il processo di boot più lungo (fino a 30 secondi), l'avvio del Custom Firmware non è garantito al 100% (ciò richiede lo spegnimento forzato della console e la riaccensione di essa), l'installazione è possibile solamente sui 3ds con versione di sistema 9.2 o inferiore (è possibile eseguire il downgrade alla console per poter permettere l'installazione) e alla chiusura di certe applicazioni (quali Impostazioni di sistema, Super Smash Bros per 3DS & Monster Hunter 4) sarà necessario riavviare il Custom Firmware.
+<sup><a id="warn3">3</a></sup> Il MenuHax, sotto diversi aspetti, è inferiore all'Arm9Loaderhax, quali il processo di boot più lungo (fino a 30 secondi), l'avvio del Custom Firmware non garantito al 100% (ciò richiede lo spegnimento forzato della console e la riaccensione di essa), l'installazione possibile solamente sui 3ds con versione di sistema 9.2 o inferiore (è possibile eseguire il downgrade alla console per poter permettere l'installazione), alla chiusura di certe applicazioni (quali Impostazioni di sistema, Super Smash Bros per 3DS & Monster Hunter 3/4/Generations) sarà necessario riavviare il Custom Firmware.
 
-<sup><a id="warn4">4</a></sup> Loadiine è un programma speciale che permette l'esecuzione di giochi della Wii U direttamente da SD o PC. Il funzionamento e l'installazione sono relativamente semplici, visto che non richiedono nessun tipo di modifica software o hardware.
+<sup><a id="warn4">4</a></sup> Loadiine è uno speciale programma che permette l'esecuzione di giochi della Wii U direttamente da SD o PC. Il funzionamento e l'installazione sono relativamente semplici, visto che non richiedono nessun tipo di modifica software o hardware.
 
 <sup><a id="warn5">5</a></sup> La particolarità di questa modifica si trova nella patch Trinity, che permette alla console di installare in modo permanente il cfw, aggiungendo inoltre alcune migliorie, quali una compatibilità pressoché universale con tutti i modelli di PSP (tranne il modello PSP E1000, o PSP Street), la possibilità di avere un cfw all'ultima versione di sistema disponibile e di poter eseguire l'unibrick in certi casi (quali un flash sbagliato di un firmware, o una modifica errata).
 

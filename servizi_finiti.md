@@ -14,7 +14,10 @@ In questa pagina elencherò i diversi lavori che ho svolto fino ad oggi.
 * New 3ds Downgrade versione 9.2 + Installazione Arm9LoaderHax
 * 3ds Xl Downgrade versione 9.2 + Installazione Arm9LoaderHax
 * 3ds Xl Installazione Arm9LoaderHax
+* 3ds Sostituzione Batteria + Installazione Arm9LoaderHax
+* 3ds Downgrade versione 9.2 + Installazione MenuHax
 
 ## PsVita
 
-* PsVita Sostituzione Analogico + Sostituzione Pulsanti
+* PsVita Sostituzione Analogico + Sostituzione Pulsanti + Installazione Henkaku
+* PsVita Sostituzione Schermo + Installazione Henkaku
