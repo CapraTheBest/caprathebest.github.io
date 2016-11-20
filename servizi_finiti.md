@@ -16,6 +16,8 @@ In questa pagina elencherò i diversi lavori che ho svolto fino ad oggi.
 * 3ds Xl Installazione Arm9LoaderHax
 * 3ds Sostituzione Batteria + Installazione Arm9LoaderHax
 * 3ds Downgrade versione 9.2 + Installazione MenuHax
+* 3ds Xl Installazione Arm9LoaderHax
+* 3ds Xl Installazione Arm9LoaderHax
 
 ## PsVita
 
